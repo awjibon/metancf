@@ -1,0 +1,1 @@
+Place Amazon_Fashion.jsonl.gz and meta_Amazon_Fashion.jsonl.gz here (see README.md).
